@@ -10,7 +10,7 @@
 }
 
 .cont1 {
-    background-image: url("../public/imagenes/fondo1.gif");
+    background-image: url("");
 
 }
 
@@ -27,7 +27,12 @@
 
 .img {
     border-radius: 100%;
-    box-shadow: 0.1em 0.1em 0.2em rgb(11, 9, 9);
+    border: black;
+    background-color: rgb(109, 3, 3);
+    box-shadow: 0.1em 0.1em 2em 0px rgb(173 29 29);
+    width: 120px;
+    height: 120px;
+    padding: 2px;
 }
 
 .btn2 {
@@ -40,3 +45,9 @@
     padding-left: 1%;
     padding-right: 1%;
 }
+
+.imagen {
+    width: 100%;
+    height: 500px;
+}
+
